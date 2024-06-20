@@ -4,7 +4,7 @@ QMUL University Assessment AP 3
 For my undergraduate project, I developed an additive synthesiser in C++ using the JUCE framework (Bastow Synth V1). At that time, my understanding of audio programming was limited, having issues with clicks and pops.
 This practical assessment attempts to expand on prior attempts, going further by- constructing a fm multi-feedback bandlimited additive synthesiser. YouTube: https://www.youtube.com/watch?v=yr4RxDwaD60
 
-<img width="561" alt="Screenshot 2024-06-20 at 10 36 34" src="https://github.com/Bastow2000/Assessment_3_FM_Synth/assets/77554338/6fa9f2f1-09b8-4ea6-8c59-4bb008475024">
+<img width="964" alt="Screenshot 2023-07-05 at 09 09 03" src="https://github.com/Bastow2000/BastowSynth.V2/assets/77554338/a1973ddc-3ec9-450a-93a5-262a775d83ab">
 
 <img width="585" alt="Screenshot 2024-06-20 at 10 36 53" src="https://github.com/Bastow2000/Assessment_3_FM_Synth/assets/77554338/052d3c46-4f98-4165-b014-618143004807">
 
