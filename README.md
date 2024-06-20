@@ -18,7 +18,7 @@ Polynomial bandlimited step is then applied for reducing aliasing, I have used t
 
 <img width="469" alt="image" src="https://github.com/Bastow2000/Assessment_3_FM_Synth/assets/77554338/716c4695-ff63-444a-802a-a0d066777ccc">
 
-We now have the main building blocks for my synthesiser, in figure 5 you can see what the wave form looks like with different amounts of modulators.
+We now have the main building blocks for my synthesiser, in the image below you can see what the wave form looks like with different amounts of modulators.
 
 <img width="667" alt="image" src="https://github.com/Bastow2000/Assessment_3_FM_Synth/assets/77554338/bd713751-7a86-4a95-b4e3-3bccb4727c9a">
 
