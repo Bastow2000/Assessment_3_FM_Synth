@@ -22,9 +22,25 @@ We now have the main building blocks for my synthesiser, in the image below you 
 
 <img width="667" alt="image" src="https://github.com/Bastow2000/Assessment_3_FM_Synth/assets/77554338/bd713751-7a86-4a95-b4e3-3bccb4727c9a">
 
+The next is the feedback algorithms.
+All modulators have their own feedback loops.
+These modulators are then added together, which is then looped multiple times before being added to the carrier.
+
+Attempts were made to do feedback with the carrier; due to the multiple partials there was only noise, I decided to pass on this.
+I had to experiment a lot here, due to certain algorithms causing instant distortion and crackling.
+
+
 <img width="579" alt="image" src="https://github.com/Bastow2000/Assessment_3_FM_Synth/assets/77554338/5bef8db4-356e-46c6-95a2-511ff8e8291d">
 
+From the very start I wanted to have some breadboard interaction.
+
 <img width="688" alt="image" src="https://github.com/Bastow2000/Assessment_3_FM_Synth/assets/77554338/d2dad7bd-afc6-408c-9c02-2165bcc50f25">
+
+This is an image when the 4th modulator is turned on and the note is on (yellow led).
+
+<img width="553" alt="Screenshot 2024-06-20 at 10 44 09" src="https://github.com/Bastow2000/Assessment_3_FM_Synth/assets/77554338/590f72de-4690-4511-aa0f-07f1e034d001">
+
+<img width="365" alt="Screenshot 2024-06-20 at 10 45 28" src="https://github.com/Bastow2000/Assessment_3_FM_Synth/assets/77554338/36c8dbaf-11e3-454e-9ae5-2ef94deff853">
 
 
 
